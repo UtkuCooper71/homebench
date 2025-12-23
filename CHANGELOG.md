@@ -8,3 +8,4 @@
 - fix: clarify the setup steps
 - fix: add a note about the defaults
 - chore: add a note about the defaults
+- chore: fix a small wording issue
